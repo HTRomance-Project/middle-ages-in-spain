@@ -1,61 +1,148 @@
-schema: https://htr-united.github.io/schema/2023-06-27/schema.json
-title: HTRomance - Medieval Latin Manuscripts
-url: https://github.com/HTRomance-Project/middle-ages-in-spain
 authors:
-  - name: Julie
-    surname: Bordier
-    orcid: 0009-0004-0769-8875
-    roles:
-      - transcriber
-  - name: Matthias
-    surname: Gille Levenson
-    orcid: 0000-0001-9488-5986
-    roles:
-      - project-manager
-      - quality-control
-  - name: Olivier
-    surname: Brisville-Fertin
-    orcid: 0000-0001-7809-3890
-    roles:
-      - project-manager
-      - quality-control
-  - name: Alix
-    surname: Chagué
-    orcid: 0000-0002-0136-4434
-    roles:
-      - project-manager
-  - name: Thibault
-    surname: Clérice
-    orcid: 0000-0003-1852-9204
-    roles:
-      - project-manager
-institutions: []
+- name: Julie
+  orcid: 0009-0004-0769-8875
+  roles:
+  - transcriber
+  surname: Bordier
+- name: Matthias
+  orcid: 0000-0001-9488-5986
+  roles:
+  - project-manager
+  - quality-control
+  surname: Gille Levenson
+- name: Olivier
+  orcid: 0000-0001-7809-3890
+  roles:
+  - project-manager
+  - quality-control
+  surname: Brisville-Fertin
+- name: Alix
+  orcid: 0000-0002-0136-4434
+  roles:
+  - project-manager
+  surname: Chagué
+- name: Thibault
+  orcid: 0000-0003-1852-9204
+  roles:
+  - project-manager
+  surname: Clérice
+automatically-aligned: false
+characters:
+  members:
+  - e
+  - a
+  - o
+  - s
+  - n
+  - l
+  - r
+  - i
+  - d
+  - u
+  - t
+  - c
+  - m
+  - ̃
+  - p
+  - .
+  - q
+  - g
+  - b
+  - f
+  - y
+  - ⁊
+  - h
+  - z
+  - /
+  - ','
+  - x
+  - E
+  - ':'
+  - ̾
+  - R
+  - D
+  - ́
+  - ̧
+  - ͥ
+  - ͣ
+  - S
+  - C
+  - ꝑ
+  - L
+  - M
+  - ͦ
+  - P
+  - A
+  - ꝯ
+  - B
+  - ¶
+  - ᷤ
+  - O
+  - F
+  - I
+  - U
+  - Q
+  - 
+  - ᷑
+  - ꝓ
+  - N
+  - ⟦
+  - ⟧
+  - H
+  - T
+  - ꝰ
+  - ͫ
+  - ẜ
+  - ł
+  - ͤ
+  - G
+  - '1'
+  - ÷
+  - ¬
+  - '2'
+  - '0'
+  - '3'
+  - ͬ
+  - "'"
+  - k
+  - K
+  - X
+  - ꝵ
+  - ꝗ
+  - '6'
+  - '4'
+  - '8'
+  - Z
+  - Y
+  - ⁿ
+  - ͨ
+  - ħ
+  mode: NFD
 description: >-
   Ground truth of medieval manuscripts from Spain. Manuscripts vary in themes,
   period, etc. Most manuscript have at most 10 columns transcribed.
-project-name: HTRomance
-project-website: https://htromance-project.github.io
-language:
-  - lat
-production-software: eScriptorium + Kraken
-automatically-aligned: false
-script:
-  - iso: Latn
-script-type: only-manuscript
-time:
-  notBefore: '1100'
-  notAfter: '1499'
+format: Alto-XML
 hands:
   count: 1-per-folder
   precision: estimated
+institutions: []
+language:
+- lat
 license:
-  - name: CC-BY 4.0
-    url: https://creativecommons.org/licenses/by/4.0/
-format: Alto-XML
-volume:
-  - metric: lines
-    count: 1
-transcription-guidelines: >-
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+production-software: eScriptorium + Kraken
+project-name: HTRomance
+project-website: https://htromance-project.github.io
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+script:
+- iso: Latn
+script-type: only-manuscript
+time:
+  notAfter: '1499'
+  notBefore: '1100'
+title: HTRomance - Medieval Latin Manuscripts
+transcription-guidelines: >2-
 
   The transcription guidelines are described in a paper available on
   [HAL](https://hal-enc.archives-ouvertes.fr/hal-03828353) and published at the
@@ -64,3 +151,13 @@ transcription-guidelines: >-
   about output (mainly the [Generic CREMMA Model for Medieval Manuscripts (Latin
   and Old French)](https://zenodo.org/record/7234166#.Y7f69afMJhE) for
   [Kraken](https://kraken.re))
+url: https://github.com/HTRomance-Project/middle-ages-in-spain
+volume:
+- count: 49879
+  metric: characters
+- count: 32
+  metric: files
+- count: 1600
+  metric: lines
+- count: 186
+  metric: regions
