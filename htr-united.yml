@@ -34,93 +34,99 @@ characters:
   - o
   - s
   - n
-  - r
   - l
+  - r
   - i
   - d
   - u
   - t
   - c
   - m
-  - p
   - ̃
+  - p
   - q
-  - .
-  - b
   - g
+  - b
+  - .
   - f
   - y
+  - /
   - h
   - ⁊
-  - ','
-  - z
-  - x
   - E
-  - C
   - ̧
-  - ':'
+  - z
   - R
+  - x
+  - ','
+  - C
   - ¶
   - ̾
-  - /
-  - I
-  - S
-  - ꝑ
+  - '-'
   - D
-  - ẜ
-  - ͥ
-  - L
+  - ':'
   - ͣ
+  - ẜ
+  - ꝑ
+  - ́
+  - ͥ
+  - S
+  - ͦ
+  - M
+  - L
+  - ͬ
+  - ᷤ
+  - P
+  - A
   - ꝯ
   - N
-  - Q
-  - 
-  - U
-  - A
-  - P
-  - O
-  - ᷤ
-  - M
-  - ̈
-  - ꝰ
   - B
-  - T
-  - F
-  - ͦ
-  - ᷑
-  - ꝓ
-  - H
-  - G
-  - '-'
-  - ł
-  - '3'
-  - ́
-  - ¬
-  - k
-  - '2'
-  - ͤ
-  - X
-  - "'"
-  - ÷
-  - '&'
-  - ꝗ
-  - ħ
-  - ̇
-  - ꝟ
+  - I
   - ⟦
   - ⟧
-  - ͬ
-  - ꝵ
-  - ͩ
-  - ^
-  - '9'
-  - '6'
-  - '0'
-  - '4'
-  - ꝭ
+  - Q
+  - O
+  - ꝓ
+  - F
+  - ̈
+  - U
+  - ͤ
+  - T
+  - X
+  - G
   - ℥
+  - H
+  - Ꞧ
   - '1'
+  - '2'
+  - ͫ
+  - '0'
+  - '3'
+  - '4'
+  - '6'
+  - '8'
+  - ħ
+  - ꝫ
+  - '7'
+  - '9'
+  - ᷝ
+  - ꝰ
+  - ̇
+  - ꝟ
+  - '5'
+  - †
+  - K
+  - ᷮ
   - ͨ
+  - ͧ
+  - Z
+  - Y
+  - ⁿ
+  - ͭ
+  - 
+  - ͪ
+  - ͩ
+  - k
   mode: NFD
 description: >-
   Ground truth of medieval manuscripts from Spain. Manuscripts vary in themes,
@@ -158,7 +164,7 @@ transcription-guidelines: >2-
   [Kraken](https://kraken.re))
 url: https://github.com/HTRomance-Project/middle-ages-in-spain
 volume:
-- count: 93515
+- count: 107934
   metric: characters
 - count: 56
   metric: files
