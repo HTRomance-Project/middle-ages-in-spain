@@ -27,22 +27,27 @@ Data follow the Segmonto guidelines.
 
 ## Transcription guidelines
 
-The transcription guidelines are described in a paper available on [HAL](https://hal-enc.archives-ouvertes.fr/hal-03828353) and published at the Journal for Open Humanities Data. It provides specific details about the selection process, the transcription methods and choices, as well as details about output (mainly the [Generic CREMMA Model for Medieval Manuscripts (Latin and Old French)](https://zenodo.org/record/7234166#.Y7f69afMJhE) for [Kraken](https://kraken.re))
+The transcription guidelines are described in a paper available on [HAL](https://hal-enc.archives-ouvertes.fr/hal-03828353) and published in the Journal for Open Humanities Data. The paper provides specific details about the selection process, the transcription methods and choices, as well as details about the output (mainly the [Generic CREMMA Model for Medieval Manuscripts (Latin and Old French)](https://zenodo.org/record/7234166#.Y7f69afMJhE) for [Kraken](https://kraken.re))
 
 ## Data
 
-ALTO and images can be found in the directory data. Each subfolder of data corresponds to a 
-single manuscript, identified by its bookshelf.
+ALTO and images can be found in the directory called `data/`. Each subfolder of `data/` corresponds to a 
+single manuscript, identified by its shelfmark.
 
 <!-- BeginTable -->
 
-| Shelfmark                                                            | Folder                                           | Biblissima   | Range   | Type   |   Century | Color   |   Main Zones |   Lines |   Characters | Genre      | Content                                                                 |
-|----------------------------------------------------------------------|--------------------------------------------------|--------------|---------|--------|-----------|---------|--------------|---------|--------------|------------|-------------------------------------------------------------------------|
-| [BnF Espagnol 256](https://gallica.bnf.fr/ark:/12148/btv1b525184396) | [🔗](middle-ages-in-spain/data/bnf-espagnol-256) |              | xr-yv   | prose  |        13 | ✓       |            7 |     219 |        12830 | juridique  | Fuero Juzgo                                                             |
-| [BnF Espagnol 65](https://gallica.bnf.fr/ark:/12148/btv1b100361755)  | [🔗](middle-ages-in-spain/data/bnf-espagnol-65)  |              | xr-yv   | prose  |        14 | ✗       |           22 |     734 |        16583 | juridique  | Fors de Navarre                                                         |
-| [BnF Espagnol 285](https://gallica.bnf.fr/ark:/12148/btv1b100345896) | [🔗](middle-ages-in-spain/data/bnf-espagnol-285) |              | 1r-6r   | prose  |        15 | ✗       |           12 |     296 |         7100 | généalogie | El linaje donde bienen fijos e fijas de don fray Fernand Perez de Ayala |
-| [BnF Espagnol 368](https://gallica.bnf.fr/ark:/12148/btv1b100360337) | [🔗](middle-ages-in-spain/data/bnf-espagnol-368) |              | 2r-6r   | prose  |        16 | ✗       |            7 |     156 |         7586 | didactique | Dialogos de los grados de perfecion..                                   |
-| [BnF Espagnol 225](https://gallica.bnf.fr/ark:/12148/btv1b8452205t)  | [🔗](middle-ages-in-spain/data/bnf-espagnol-225) |              | 5r-8v   | vers   |        16 | ✓       |            9 |     195 |         5785 | poésie     | Chansonnier catalan                                                     |
+| Shelfmark                                                            | Folder                                                        | Biblissima   | Range   | Type   |   Century | Color   |   Main Zones |   Lines |   Characters | Genre               | Content                                                                 |
+|----------------------------------------------------------------------|---------------------------------------------------------------|--------------|---------|--------|-----------|---------|--------------|---------|--------------|---------------------|-------------------------------------------------------------------------|
+| [BnF Espagnol 256](https://gallica.bnf.fr/ark:/12148/btv1b525184396) | [🔗](../htromance/middle-ages-in-spain/data/bnf-espagnol-256) |              | 5r-8r   | prose  |        13 | ✓       |            7 |     219 |        12830 | juridique           | Fuero Juzgo                                                             |
+| [BnF Espagnol 563](https://gallica.bnf.fr/ark:/12148/btv1b100335333) | [🔗](../htromance/middle-ages-in-spain/data/bnf-espagnol-563) |              | 51v-55r | prose  |        14 | ✗       |            8 |     238 |        11436 | médecine            | Canon d'Avicenne                                                        |
+| [BnF Espagnol 65](https://gallica.bnf.fr/ark:/12148/btv1b100361755)  | [🔗](../htromance/middle-ages-in-spain/data/bnf-espagnol-65)  |              | 1r-6r   | prose  |        14 | ✗       |           22 |     734 |        16583 | juridique           | Fors de Navarre                                                         |
+| [BnF Espagnol 36](https://gallica.bnf.fr/ark:/12148/btv1b100295099)  | [🔗](../htromance/middle-ages-in-spain/data/bnf-espagnol-36)  |              | 1r-3v   | prose  |        14 | ✓       |           12 |     469 |        14544 | roman chevaleresque | Libro del caballero Zifar                                               |
+| [BnF Espagnol 110](https://gallica.bnf.fr/ark:/12148/btv1b53158458z) | [🔗](../htromance/middle-ages-in-spain/data/bnf-espagnol-110) |              | 1r-3r   | prose  |        15 | ✓       |            6 |     181 |         2199 | historiographie     | Suma de los reyes de España                                             |
+| [BnF Espagnol 98](https://gallica.bnf.fr/ark:/12148/btv1b100327930)  | [🔗](../htromance/middle-ages-in-spain/data/bnf-espagnol-98)  |              | 1r-4r   | prose  |        15 | ✗       |            9 |     244 |        11895 | protocole           | Ordinacions fetes per lo molt alt senyor en P[ere]                      |
+| [BnF Espagnol 285](https://gallica.bnf.fr/ark:/12148/btv1b100345896) | [🔗](../htromance/middle-ages-in-spain/data/bnf-espagnol-285) |              | 1r-6r   | prose  |        15 | ✗       |           12 |     296 |         4153 | généalogie          | El linaje donde bienen fijos e fijas de don fray Fernand Perez de Ayala |
+| [BnF Espagnol 548](https://gallica.bnf.fr/ark:/12148/btv1b100335316) | [🔗](../htromance/middle-ages-in-spain/data/bnf-espagnol-548) |              | 1r-5r   | prose  |        16 | ✗       |            9 |     172 |         6492 | juridique           | Ordonnances des consuls de la mer                                       |
+| [BnF Espagnol 368](https://gallica.bnf.fr/ark:/12148/btv1b100360337) | [🔗](../htromance/middle-ages-in-spain/data/bnf-espagnol-368) |              | 2r-6r   | prose  |        16 | ✗       |            7 |     156 |         7516 | didactique          | Dialogos de los grados de perfecion..                                   |
+| [BnF Espagnol 225](https://gallica.bnf.fr/ark:/12148/btv1b8452205t)  | [🔗](../htromance/middle-ages-in-spain/data/bnf-espagnol-225) |              | 5r-8v   | vers   |        16 | ✓       |            9 |     195 |         5861 | poésie              | Chansonnier catalan                                                     |
 
 <!-- EndTable -->
 
@@ -52,27 +57,28 @@ single manuscript, identified by its bookshelf.
 
 ### Regions
 
-- MainZone (57)
-- DropCapitalZone (45)
-- text (1)
-- NumberingZone (33)
-- MarginTextZone (34)
-- Not specified (5)
+- MainZone (101)
+- NumberingZone (53)
+- StampZone (4)
+- MarginTextZone (42)
+- DropCapitalZone (52)
 - DecorationZone (9)
-- StampZone (2)
+- text (1)
+- Not specified (6)
+- QuireMarksZone (1)
 
 ### Lines
 
-- DefaultLine (1215)
-- default (295)
-- Not specified (90)
+- DefaultLine (2509)
+- Not specified (97)
+- default (298)
 
 <!-- EndMetric -->
 
 ## Funding
 
 This project was funded by the Bibliothèque nationale de France through the 2022 project calls from
-[Datalab](https://www.bnf.fr/fr/bnf-datalab).
+[Datalab](https://www.bnf.fr/fr/bnf-datalab) for 2023.
 
 ## Citer le projet
 
@@ -80,5 +86,5 @@ ToDo.
 
 ## Infrastructure
 
-This project was produced through the [CREMMA infrastructure](https://www.dim-map.fr/projets-soutenus/cremma/).
+This project relied on the [CREMMA infrastructure](https://www.dim-map.fr/projets-soutenus/cremma/).
 
