@@ -34,89 +34,93 @@ characters:
   - o
   - s
   - n
-  - l
   - r
+  - l
   - i
   - d
   - u
   - t
   - c
   - m
-  - ̃
   - p
-  - .
+  - ̃
   - q
-  - g
+  - .
   - b
+  - g
   - f
   - y
-  - ⁊
   - h
-  - z
-  - /
+  - ⁊
   - ','
+  - z
   - x
   - E
-  - ':'
-  - ̾
-  - R
-  - D
-  - ́
-  - ̧
-  - ͥ
-  - ͣ
-  - S
   - C
-  - ꝑ
-  - L
-  - M
-  - ͦ
-  - P
-  - A
-  - ꝯ
-  - B
+  - ̧
+  - ':'
+  - R
   - ¶
-  - ᷤ
-  - O
-  - F
+  - ̾
+  - /
   - I
-  - U
+  - S
+  - ꝑ
+  - D
+  - ẜ
+  - ͥ
+  - L
+  - ͣ
+  - ꝯ
+  - N
   - Q
   - 
+  - U
+  - A
+  - P
+  - O
+  - ᷤ
+  - M
+  - ̈
+  - ꝰ
+  - B
+  - T
+  - F
+  - ͦ
   - ᷑
   - ꝓ
-  - N
+  - H
+  - G
+  - '-'
+  - ł
+  - '3'
+  - ́
+  - ¬
+  - k
+  - '2'
+  - ͤ
+  - X
+  - "'"
+  - ÷
+  - '&'
+  - ꝗ
+  - ħ
+  - ̇
+  - ꝟ
   - ⟦
   - ⟧
-  - H
-  - T
-  - ꝰ
-  - ͫ
-  - ẜ
-  - ł
-  - ͤ
-  - G
-  - '1'
-  - ÷
-  - ¬
-  - '2'
-  - '0'
-  - '3'
   - ͬ
-  - "'"
-  - k
-  - K
-  - X
   - ꝵ
-  - ꝗ
+  - ͩ
+  - ^
+  - '9'
   - '6'
+  - '0'
   - '4'
-  - '8'
-  - Z
-  - Y
-  - ⁿ
+  - ꝭ
+  - ℥
+  - '1'
   - ͨ
-  - ħ
   mode: NFD
 description: >-
   Ground truth of medieval manuscripts from Spain. Manuscripts vary in themes,
@@ -154,11 +158,11 @@ transcription-guidelines: >2-
   [Kraken](https://kraken.re))
 url: https://github.com/HTRomance-Project/middle-ages-in-spain
 volume:
-- count: 49879
+- count: 93515
   metric: characters
-- count: 32
+- count: 56
   metric: files
-- count: 1600
+- count: 2904
   metric: lines
-- count: 186
+- count: 269
   metric: regions
