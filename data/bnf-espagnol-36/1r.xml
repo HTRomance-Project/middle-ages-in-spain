@@ -35,69 +35,69 @@
           
           
           <TextLine ID="eSc_line_1358faa6"
-                    
+                    TAGREFS="LT2185"
                     BASELINE="901 2467 1957 2484" 
-                    HPOS="892.0"
-                    VPOS="2366.0"
-                    WIDTH="1060.0"
-                    HEIGHT="161.0">
+                    HPOS="892"
+                    VPOS="2366"
+                    WIDTH="1060"
+                    HEIGHT="161">
             <Shape><Polygon POINTS="892 2505 1941 2527 1952 2479 1952 2382 898 2366 898 2462"/></Shape>
 	    <String CONTENT="ñl tienpo del honrrado padre bonj"
-                    HPOS="892.0"
-                    VPOS="2366.0"
-                    WIDTH="1060.0"
-                    HEIGHT="161.0"></String>
+                    HPOS="892"
+                    VPOS="2366"
+                    WIDTH="1060"
+                    HEIGHT="161"></String>
           </TextLine>
 
           
           
           <TextLine ID="eSc_line_5a238be2"
-                    
+                    TAGREFS="LT2185"
                     BASELINE="925 2553 1976 2573" 
-                    HPOS="914.0"
-                    VPOS="2479.0"
-                    WIDTH="1059.0"
-                    HEIGHT="145.0">
+                    HPOS="914"
+                    VPOS="2479"
+                    WIDTH="1059"
+                    HEIGHT="145">
             <Shape><Polygon POINTS="919 2548 914 2602 1962 2624 1973 2570 1973 2500 919 2479 919 2548"/></Shape>
 	    <String CONTENT="façio vjno enla era de mjll ⁊ trezi"
-                    HPOS="914.0"
-                    VPOS="2479.0"
-                    WIDTH="1059.0"
-                    HEIGHT="145.0"></String>
+                    HPOS="914"
+                    VPOS="2479"
+                    WIDTH="1059"
+                    HEIGHT="145"></String>
           </TextLine>
 
           
           
           <TextLine ID="eSc_line_8de3f8a1"
-                    
+                    TAGREFS="LT2185"
                     BASELINE="882 2634 1959 2645" 
-                    HPOS="876.0"
-                    VPOS="2565.0"
-                    WIDTH="1081.0"
-                    HEIGHT="118.0">
+                    HPOS="876"
+                    VPOS="2565"
+                    WIDTH="1081"
+                    HEIGHT="118">
             <Shape><Polygon POINTS="1903 2570 1850 2570 1796 2570 1742 2570 1726 2565 882 2565 882 2629 876 2683 1952 2683 1957 2640 1952 2570 1903 2570"/></Shape>
 	    <String CONTENT="entos años el dia dela naçençia"
-                    HPOS="876.0"
-                    VPOS="2565.0"
-                    WIDTH="1081.0"
-                    HEIGHT="118.0"></String>
+                    HPOS="876"
+                    VPOS="2565"
+                    WIDTH="1081"
+                    HEIGHT="118"></String>
           </TextLine>
 
           
           
           <TextLine ID="eSc_line_2cf3587c"
-                    
+                    TAGREFS="LT2185"
                     BASELINE="580 2715 1832 2724 1976 2714" 
-                    HPOS="570.0"
-                    VPOS="2608.0"
-                    WIDTH="1403.0"
-                    HEIGHT="172.0">
+                    HPOS="570"
+                    VPOS="2608"
+                    WIDTH="1403"
+                    HEIGHT="172">
             <Shape><Polygon POINTS="1919 2640 1866 2640 1812 2640 1758 2640 1704 2640 1651 2640 1597 2640 1543 2640 1489 2640 1435 2640 1409 2634 908 2645 575 2608 575 2710 570 2774 1962 2780 1973 2710 1962 2629 1925 2629 1919 2640"/></Shape>
 	    <String CONTENT="de nr̃o Señor ihũ xp̃o començo eñl año ju"
-                    HPOS="570.0"
-                    VPOS="2608.0"
-                    WIDTH="1403.0"
-                    HEIGHT="172.0"></String>
+                    HPOS="570"
+                    VPOS="2608"
+                    WIDTH="1403"
+                    HEIGHT="172"></String>
           </TextLine>
 
           
