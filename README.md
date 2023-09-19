@@ -70,14 +70,12 @@ single manuscript, identified by its bookshelf.
 - RunningTitleZone (14)
 - QuireMarksZone (2)
 - DropCapitalZone (76)
-- Not specified (5)
 
 ### Lines
 
-- DefaultLine (4315)
+- DefaultLine (4316)
 - DropCapitalLine (118)
 - HeadingLine (3)
-- Not specified (1)
 
 <!-- EndMetric -->
 
