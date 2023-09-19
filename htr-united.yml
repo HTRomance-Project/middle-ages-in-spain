@@ -34,95 +34,102 @@ characters:
   - o
   - s
   - n
-  - l
   - r
+  - l
   - i
   - d
   - u
   - t
   - c
-  - m
   - ̃
+  - m
   - p
   - q
   - g
+  - f
   - b
   - .
-  - f
   - y
   - /
   - h
   - ⁊
-  - E
   - ̧
   - z
-  - R
+  - E
   - x
-  - ','
+  - R
   - C
   - ¶
-  - ̾
-  - '-'
-  - D
-  - ':'
-  - ͣ
-  - ẜ
   - ꝑ
-  - ́
+  - ','
+  - ͣ
   - ͥ
-  - S
-  - ͦ
+  - ̾
+  - D
   - M
-  - L
-  - ͬ
+  - ͦ
+  - ':'
+  - '-'
   - ᷤ
-  - P
+  - S
+  - ẜ
+  - ́
   - A
+  - L
+  - P
   - ꝯ
-  - N
-  - B
+  - Q
+  - ͬ
   - I
+  - B
   - ⟦
   - ⟧
-  - Q
   - O
+  - N
+  - ̇
+  - T
   - ꝓ
-  - F
   - ̈
+  - F
   - U
   - ͤ
-  - T
-  - X
-  - G
-  - ℥
-  - H
-  - Ꞧ
   - '1'
+  - G
+  - X
   - '2'
-  - ͫ
   - '0'
   - '3'
+  - H
+  - Y
+  - ᷎
+  - ℥
   - '4'
   - '6'
   - '8'
-  - ħ
-  - ꝫ
+  - Ꞧ
   - '7'
-  - '9'
-  - ᷝ
-  - ꝰ
-  - ̇
-  - ꝟ
   - '5'
+  - ͫ
+  - '9'
+  - ꝰ
+  - ħ
+  - ͭ
+  - ꝫ
+  - ᷑
+  - ᷝ
+  - ͧ
+  - ꝟ
+  - ⁿ
   - †
   - K
+  - ꝵ
+  - ꝙ
+  - ᷠ
   - ᷮ
   - ͨ
-  - ͧ
   - Z
-  - Y
-  - ⁿ
-  - ͭ
+  - ł
+  - Ꝯ
   - 
   - ͪ
   - ͩ
@@ -164,11 +171,11 @@ transcription-guidelines: >2-
   [Kraken](https://kraken.re))
 url: https://github.com/HTRomance-Project/middle-ages-in-spain
 volume:
-- count: 107934
+- count: 160878
   metric: characters
-- count: 56
+- count: 86
   metric: files
-- count: 2904
+- count: 4437
   metric: lines
-- count: 269
+- count: 395
   metric: regions
