@@ -844,18 +844,18 @@
           
           
           <TextLine ID="eSc_line_dcba18c4"
-                    
+                    TAGREFS="LT2185"
                     BASELINE="2367 2482 3714 2484" 
-                    HPOS="2366.0"
-                    VPOS="2403.0"
-                    WIDTH="1344.0"
-                    HEIGHT="140.0">
+                    HPOS="2366"
+                    VPOS="2403"
+                    WIDTH="1344"
+                    HEIGHT="140">
             <Shape><Polygon POINTS="2366 2532 3705 2543 3710 2479 3710 2409 2366 2403 2366 2479"/></Shape>
 	    <String CONTENT="atantos grandes perdones com̃o eñste"
-                    HPOS="2366.0"
-                    VPOS="2403.0"
-                    WIDTH="1344.0"
-                    HEIGHT="140.0"></String>
+                    HPOS="2366"
+                    VPOS="2403"
+                    WIDTH="1344"
+                    HEIGHT="140"></String>
           </TextLine>
 
           

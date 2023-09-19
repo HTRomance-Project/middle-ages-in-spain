@@ -1136,6 +1136,33 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="4458"
+                   VPOS="309"
+                   WIDTH="405"
+                   HEIGHT="202"
+                   ID="eSc_textblock_f066448d"
+                   TAGREFS="BT8282">
+          <Shape><Polygon POINTS="4458 309 4458 511 4863 511 4863 309"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_51100c96"
+                    TAGREFS="LT2823"
+                    BASELINE="4453 418 4458 418 4491 418 4584 418 4671 424 4797 424 4819 424 4819 418 4863 418" 
+                    HPOS="4447"
+                    VPOS="283"
+                    WIDTH="415"
+                    HEIGHT="239">
+            <Shape><Polygon POINTS="4451 415 4447 435 4537 439 4644 518 4648 518 4652 518 4657 522 4747 522 4747 518 4751 518 4755 518 4858 439 4862 415 4862 345 4632 283 4628 283 4624 283 4620 283 4615 283 4615 287 4541 349 4541 353 4451 353 4451 415"/></Shape>
+	    <String CONTENT=".iiijͦ."
+                    HPOS="4447"
+                    VPOS="283"
+                    WIDTH="415"
+                    HEIGHT="239"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
         <TextBlock HPOS="4824"
                    VPOS="539"
                    WIDTH="1197"
@@ -1540,16 +1567,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="4458"
-                   VPOS="309"
-                   WIDTH="405"
-                   HEIGHT="202"
-                   ID="eSc_textblock_f066448d"
-                   TAGREFS="BT8282">
-          <Shape><Polygon POINTS="4458 309 4458 511 4863 511 4863 309"/></Shape>
-          
-        </TextBlock>
-        
         <TextBlock HPOS="2328"
                    VPOS="3194"
                    WIDTH="316"
@@ -1561,27 +1578,6 @@
         </TextBlock>
         
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_51100c96"
-                    TAGREFS="LT2823"
-                    BASELINE="4453 418 4458 418 4491 418 4584 418 4671 424 4797 424 4819 424 4819 418 4863 418" 
-                    HPOS="4447"
-                    VPOS="283"
-                    WIDTH="415"
-                    HEIGHT="239">
-            <Shape><Polygon POINTS="4451 415 4447 435 4537 439 4644 518 4648 518 4652 518 4657 522 4747 522 4747 518 4751 518 4755 518 4858 439 4862 415 4862 345 4632 283 4628 283 4624 283 4620 283 4615 283 4615 287 4541 349 4541 353 4451 353 4451 415"/></Shape>
-	    <String CONTENT=".iiijͦ."
-                    HPOS="4447"
-                    VPOS="283"
-                    WIDTH="415"
-                    HEIGHT="239"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>

@@ -357,6 +357,23 @@
 
           
           
+          <TextLine ID="eSc_line_21853d00"
+                    TAGREFS="LT2819"
+                    BASELINE="301 2032 1518 2028" 
+                    HPOS="296"
+                    VPOS="1960"
+                    WIDTH="1220"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="300 2058 1512 2053 1516 2024 1504 1960 296 1969 300 2028"/></Shape>
+	    <String CONTENT="ꝑ aclo quel uot no complis. onuenen"
+                    HPOS="296"
+                    VPOS="1960"
+                    WIDTH="1220"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_0924bccd"
                     TAGREFS="LT2819"
                     BASELINE="307 2120 1488 2114" 
@@ -1487,27 +1504,6 @@
         </TextBlock>
         
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_21853d00"
-                    TAGREFS="LT2819"
-                    BASELINE="301 2032 1518 2028" 
-                    HPOS="296"
-                    VPOS="1960"
-                    WIDTH="1220"
-                    HEIGHT="98">
-            <Shape><Polygon POINTS="300 2058 1512 2053 1516 2024 1504 1960 296 1969 300 2028"/></Shape>
-	    <String CONTENT="ꝑ aclo quel uot no complis. onuenen"
-                    HPOS="296"
-                    VPOS="1960"
-                    WIDTH="1220"
-                    HEIGHT="98"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>

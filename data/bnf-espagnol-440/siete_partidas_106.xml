@@ -1608,6 +1608,33 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="4858"
+                   VPOS="501"
+                   WIDTH="345"
+                   HEIGHT="198"
+                   ID="eSc_textblock_f0d49458"
+                   TAGREFS="BT8282">
+          <Shape><Polygon POINTS="4858 501 4858 699 5203 699 5203 501"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_774393e5"
+                    TAGREFS="LT2823"
+                    BASELINE="4852 611 4934 616 5022 633 5066 633 5175 633" 
+                    HPOS="4845"
+                    VPOS="513"
+                    WIDTH="325"
+                    HEIGHT="181">
+            <Shape><Polygon POINTS="4850 608 4845 653 4985 694 4989 694 4994 694 5166 686 5170 629 5170 534 4854 513 4850 608"/></Shape>
+	    <String CONTENT=".cxx"
+                    HPOS="4845"
+                    VPOS="513"
+                    WIDTH="325"
+                    HEIGHT="181"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
         <TextBlock HPOS="5268"
                    VPOS="436"
                    WIDTH="340"
@@ -1699,38 +1726,7 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="4858"
-                   VPOS="501"
-                   WIDTH="345"
-                   HEIGHT="198"
-                   ID="eSc_textblock_f0d49458"
-                   TAGREFS="BT8282">
-          <Shape><Polygon POINTS="4858 501 4858 699 5203 699 5203 501"/></Shape>
-          
-        </TextBlock>
-        
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_774393e5"
-                    TAGREFS="LT2823"
-                    BASELINE="4852 611 4934 616 5022 633 5066 633 5175 633" 
-                    HPOS="4845"
-                    VPOS="513"
-                    WIDTH="325"
-                    HEIGHT="181">
-            <Shape><Polygon POINTS="4850 608 4845 653 4985 694 4989 694 4994 694 5166 686 5170 629 5170 534 4854 513 4850 608"/></Shape>
-	    <String CONTENT=".cxx"
-                    HPOS="4845"
-                    VPOS="513"
-                    WIDTH="325"
-                    HEIGHT="181"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>
