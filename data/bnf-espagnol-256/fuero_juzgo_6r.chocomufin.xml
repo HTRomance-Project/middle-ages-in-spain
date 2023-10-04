@@ -8,7 +8,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT7629" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT7600" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT7599" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT7598" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT7597" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT7596" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT7595" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT7594" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT7593" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT7592" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT7591" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT7590" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT7589" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT7588" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT7587" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="BT7600" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT7599" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT7598" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT7597" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT7596" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT7595" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT7594" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT7593" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT7592" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT7591" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT7590" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT7589" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT7588" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT7587" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
     <OtherTag ID="LT2570" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT2559" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT2558" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT3" LABEL="Correction" DESCRIPTION="line type Correction"/><OtherTag ID="LT2561" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT2560" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
@@ -18,6 +18,13 @@
         
         <TextBlock HPOS="52" VPOS="106" WIDTH="1515" HEIGHT="2122" ID="eSc_textblock_ee8211cd" TAGREFS="BT7591">
           <Shape><Polygon POINTS="57 119 52 2228 1567 2225 1558 106"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_18187c1b" TAGREFS="LT2558" BASELINE="1548 202 1686 202" HPOS="1547" VPOS="75" WIDTH="138" HEIGHT="166">
+            <Shape><Polygon POINTS="1547 201 1547 230 1683 241 1685 201 1683 75 1552 75 1547 106"/></Shape>
+	    <String CONTENT="3 6" HPOS="1547" VPOS="75" WIDTH="138" HEIGHT="166"/>
+          </TextLine>
+
           
           
           <TextLine ID="eSc_line_48730b2a" TAGREFS="LT2558" BASELINE="73 266 319 267 1549 251" HPOS="66" VPOS="148" WIDTH="1481" HEIGHT="164">
@@ -104,7 +111,7 @@
 
           
           
-          <TextLine ID="eSc_line_def8cc24" BASELINE="167 1017 329 1019 1555 1006" HPOS="163" VPOS="969" WIDTH="1391" HEIGHT="87">
+          <TextLine ID="eSc_line_def8cc24" TAGREFS="LT2558" BASELINE="167 1017 329 1019 1555 1006" HPOS="163" VPOS="969" WIDTH="1391" HEIGHT="87">
             <Shape><Polygon POINTS="166 1016 166 1042 374 1056 376 1056 524 1042 589 1038 651 1042 748 1051 750 1051 799 1042 817 1040 874 1042 1012 1049 1014 1049 1016 1049 1034 1042 1056 1034 1102 1042 1131 1047 1133 1047 1167 1042 1229 1031 1552 1040 1554 1005 1547 969 163 983 166 1016"/></Shape>
 	    <String CONTENT="nesta ley dize como deuẽ seer ciom delos principes. et delo que ga-" HPOS="163" VPOS="969" WIDTH="1391" HEIGHT="87"/>
           </TextLine>
