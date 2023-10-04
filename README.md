@@ -36,23 +36,23 @@ single manuscript, identified by its shelfmark.
 
 <!-- BeginTable -->
 
-| Shelfmark                                                            | Links                                                                                                  | Range       | Type   |   Century | Color   |   Pages |   Main Zones |   Lines |   Characters | Genre                   | Content                                                                 |
-|----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-------------|--------|-----------|---------|---------|--------------|---------|--------------|-------------------------|-------------------------------------------------------------------------|
-| [BnF Espagnol 480](https://gallica.bnf.fr/ark:/12148/btv1b100347425) | [📁](../middle-ages-in-spain/data/bnf-espagnol-480)  [**B**](https://data.biblissima.fr/w/Item:Q49086) | 27r;39r;48r | prose  |        13 | ✗       |       3 |            3 |      80 |        11143 | juridique               | Documents relatifs à l'hôpital de Burgos                                |
-| [BnF Espagnol 256](https://gallica.bnf.fr/ark:/12148/btv1b525184396) | [📁](../middle-ages-in-spain/data/bnf-espagnol-256)  [**B**](https://data.biblissima.fr/w/Item:Q49086) | 5r-8r       | prose  |        13 | ✓       |       7 |            7 |     225 |        12871 | juridique               | Fuero Juzgo                                                             |
-| [BnF Espagnol 440](https://gallica.bnf.fr/ark:/12148/btv1b10033502d) | [📁](../middle-ages-in-spain/data/bnf-espagnol-440)  [**B**](https://data.biblissima.fr/w/Item:Q49086) | xr-yv       | prose  |        14 | ✗       |       4 |           16 |     353 |         8233 | juridique               | Siete Partidas                                                          |
-| [BnF Espagnol 65](https://gallica.bnf.fr/ark:/12148/btv1b100361755)  | [📁](../middle-ages-in-spain/data/bnf-espagnol-65)  [**B**](https://data.biblissima.fr/w/Item:Q49086)  | 1r-6r       | prose  |        14 | ✗       |      12 |           44 |    1476 |        33573 | juridique               | Fors de Navarre                                                         |
-| [BnF Espagnol 44](https://gallica.bnf.fr/ark:/12148/btv1b52506309k)  | [📁](../middle-ages-in-spain/data/bnf-espagnol-44)  [**B**](https://data.biblissima.fr/w/Item:Q49086)  | 10r-12r     | prose  |        14 | ✓       |      10 |           20 |     832 |        25863 | hagiographie            | Légende dorée                                                           |
-| [BnF Espagnol 563](https://gallica.bnf.fr/ark:/12148/btv1b100335333) | [📁](../middle-ages-in-spain/data/bnf-espagnol-563)  [**B**](https://data.biblissima.fr/w/Item:Q49086) | 51v-55r     | prose  |        14 | ✗       |       8 |           16 |     476 |        23571 | médecine                | Canon d'Avicenne                                                        |
-| [BnF Espagnol 36](https://gallica.bnf.fr/ark:/12148/btv1b100295099)  | [📁](../middle-ages-in-spain/data/bnf-espagnol-36)  [**B**](https://data.biblissima.fr/w/Item:Q49086)  | 1r-3v       | prose  |        14 | ✓       |      12 |           24 |     938 |        29093 | roman chevaleresque     | Libro del caballero Zifar                                               |
-| [BnF Espagnol 533](https://gallica.bnf.fr/ark:/12148/btv1b52501946f) | [📁](../middle-ages-in-spain/data/bnf-espagnol-533)  [**B**](https://data.biblissima.fr/w/Item:Q49086) | 1r-4v       | prose  |        15 | ✓       |       8 |            8 |     226 |         8511 | littérature épistolaire | Bursario                                                                |
-| [BnF Espagnol 110](https://gallica.bnf.fr/ark:/12148/btv1b53158458z) | [📁](../middle-ages-in-spain/data/bnf-espagnol-110)  [**B**](https://data.biblissima.fr/w/Item:Q49086) | 1r-3r       | prose  |        15 | ✓       |      10 |           12 |     362 |        25790 | historiographie         | Suma de los reyes de España                                             |
-| [BnF Espagnol 229](https://gallica.bnf.fr/ark:/12148/btv1b8436399x)  | [📁](../middle-ages-in-spain/data/bnf-espagnol-229)  [**B**](https://data.biblissima.fr/w/Item:Q49086) | 2r-6v       | mixed  |        15 | ✓       |      20 |           32 |     890 |        24194 | poésie + gloses         | Laberinto de Fortuna et gloses                                          |
-| [BnF Espagnol 98](https://gallica.bnf.fr/ark:/12148/btv1b100327930)  | [📁](../middle-ages-in-spain/data/bnf-espagnol-98)  [**B**](https://data.biblissima.fr/w/Item:Q49086)  | 1r-4r       | prose  |        15 | ✗       |       8 |           18 |     488 |        23933 | protocole               | Ordinacions fetes per lo molt alt senyor en P[ere]                      |
-| [BnF Espagnol 285](https://gallica.bnf.fr/ark:/12148/btv1b100345896) | [📁](../middle-ages-in-spain/data/bnf-espagnol-285)  [**B**](https://data.biblissima.fr/w/Item:Q49086) | 1r-6r       | prose  |        15 | ✗       |      12 |           24 |     592 |        14201 | généalogie              | El linaje donde bienen fijos e fijas de don fray Fernand Perez de Ayala |
-| [BnF Espagnol 225](https://gallica.bnf.fr/ark:/12148/btv1b8452205t)  | [📁](../middle-ages-in-spain/data/bnf-espagnol-225)  [**B**](https://data.biblissima.fr/w/Item:Q49086) | 5r-8v       | vers   |        16 | ✓       |      16 |           18 |     396 |        11575 | poésie                  | Chansonnier catalan                                                     |
-| [BnF Espagnol 548](https://gallica.bnf.fr/ark:/12148/btv1b100335316) | [📁](../middle-ages-in-spain/data/bnf-espagnol-548)  [**B**](https://data.biblissima.fr/w/Item:Q49086) | 1r-5r       | prose  |        16 | ✗       |      10 |           18 |     344 |        13248 | juridique               | Ordonnances des consuls de la mer                                       |
-| [BnF Espagnol 368](https://gallica.bnf.fr/ark:/12148/btv1b100360337) | [📁](../middle-ages-in-spain/data/bnf-espagnol-368)  [**B**](https://data.biblissima.fr/w/Item:Q49086) | 2r-6r       | prose  |        16 | ✗       |      10 |           14 |     312 |        15166 | didactique              | Dialogos de los grados de perfecion..                                   |
+| Shelfmark                                                            | Links                                                                          | Range       | Type   |   Century | Color   |   Pages |   Main Zones |   Lines |   Characters | Genre                   | Content                                                                 |
+|----------------------------------------------------------------------|--------------------------------------------------------------------------------|-------------|--------|-----------|---------|---------|--------------|---------|--------------|-------------------------|-------------------------------------------------------------------------|
+| [BnF Espagnol 480](https://gallica.bnf.fr/ark:/12148/btv1b100347425) | [📁](data/bnf-espagnol-480)  [**B**](https://data.biblissima.fr/w/Item:Q49086) | 27r;39r;48r | prose  |        13 | ✗       |       6 |            6 |     160 |        22279 | juridique               | Documents relatifs à l'hôpital de Burgos                                |
+| [BnF Espagnol 256](https://gallica.bnf.fr/ark:/12148/btv1b525184396) | [📁](data/bnf-espagnol-256)  [**B**](https://data.biblissima.fr/w/Item:Q49086) | 5r-8r       | prose  |        13 | ✓       |      14 |           14 |     450 |        25743 | juridique               | Fuero Juzgo                                                             |
+| [BnF Espagnol 440](https://gallica.bnf.fr/ark:/12148/btv1b10033502d) | [📁](data/bnf-espagnol-440)  [**B**](https://data.biblissima.fr/w/Item:Q49086) | xr-yv       | prose  |        14 | ✗       |       8 |           32 |     706 |        16476 | juridique               | Siete Partidas                                                          |
+| [BnF Espagnol 65](https://gallica.bnf.fr/ark:/12148/btv1b100361755)  | [📁](data/bnf-espagnol-65)  [**B**](https://data.biblissima.fr/w/Item:Q49086)  | 1r-6r       | prose  |        14 | ✗       |      12 |           44 |    1476 |        33573 | juridique               | Fors de Navarre                                                         |
+| [BnF Espagnol 44](https://gallica.bnf.fr/ark:/12148/btv1b52506309k)  | [📁](data/bnf-espagnol-44)  [**B**](https://data.biblissima.fr/w/Item:Q49086)  | 10r-12r     | prose  |        14 | ✓       |      10 |           20 |     832 |        25863 | hagiographie            | Légende dorée                                                           |
+| [BnF Espagnol 563](https://gallica.bnf.fr/ark:/12148/btv1b100335333) | [📁](data/bnf-espagnol-563)  [**B**](https://data.biblissima.fr/w/Item:Q49086) | 51v-55r     | prose  |        14 | ✗       |       8 |           16 |     476 |        23571 | médecine                | Canon d'Avicenne                                                        |
+| [BnF Espagnol 36](https://gallica.bnf.fr/ark:/12148/btv1b100295099)  | [📁](data/bnf-espagnol-36)  [**B**](https://data.biblissima.fr/w/Item:Q49086)  | 1r-3v       | prose  |        14 | ✓       |      12 |           24 |     938 |        29093 | roman chevaleresque     | Libro del caballero Zifar                                               |
+| [BnF Espagnol 533](https://gallica.bnf.fr/ark:/12148/btv1b52501946f) | [📁](data/bnf-espagnol-533)  [**B**](https://data.biblissima.fr/w/Item:Q49086) | 1r-4v       | prose  |        15 | ✓       |      16 |           16 |     452 |        17023 | littérature épistolaire | Bursario                                                                |
+| [BnF Espagnol 110](https://gallica.bnf.fr/ark:/12148/btv1b53158458z) | [📁](data/bnf-espagnol-110)  [**B**](https://data.biblissima.fr/w/Item:Q49086) | 1r-3r       | prose  |        15 | ✓       |      10 |           12 |     362 |        25790 | historiographie         | Suma de los reyes de España                                             |
+| [BnF Espagnol 229](https://gallica.bnf.fr/ark:/12148/btv1b8436399x)  | [📁](data/bnf-espagnol-229)  [**B**](https://data.biblissima.fr/w/Item:Q49086) | 2r-6v       | mixed  |        15 | ✓       |      20 |           32 |     890 |        24194 | poésie + gloses         | Laberinto de Fortuna et gloses                                          |
+| [BnF Espagnol 98](https://gallica.bnf.fr/ark:/12148/btv1b100327930)  | [📁](data/bnf-espagnol-98)  [**B**](https://data.biblissima.fr/w/Item:Q49086)  | 1r-4r       | prose  |        15 | ✗       |       8 |           18 |     488 |        23933 | protocole               | Ordinacions fetes per lo molt alt senyor en P[ere]                      |
+| [BnF Espagnol 285](https://gallica.bnf.fr/ark:/12148/btv1b100345896) | [📁](data/bnf-espagnol-285)  [**B**](https://data.biblissima.fr/w/Item:Q49086) | 1r-6r       | prose  |        15 | ✗       |      12 |           24 |     592 |        14201 | généalogie              | El linaje donde bienen fijos e fijas de don fray Fernand Perez de Ayala |
+| [BnF Espagnol 225](https://gallica.bnf.fr/ark:/12148/btv1b8452205t)  | [📁](data/bnf-espagnol-225)  [**B**](https://data.biblissima.fr/w/Item:Q49086) | 5r-8v       | vers   |        16 | ✓       |      16 |           18 |     396 |        11575 | poésie                  | Chansonnier catalan                                                     |
+| [BnF Espagnol 548](https://gallica.bnf.fr/ark:/12148/btv1b100335316) | [📁](data/bnf-espagnol-548)  [**B**](https://data.biblissima.fr/w/Item:Q49086) | 1r-5r       | prose  |        16 | ✗       |      10 |           18 |     344 |        13248 | juridique               | Ordonnances des consuls de la mer                                       |
+| [BnF Espagnol 368](https://gallica.bnf.fr/ark:/12148/btv1b100360337) | [📁](data/bnf-espagnol-368)  [**B**](https://data.biblissima.fr/w/Item:Q49086) | 2r-6r       | prose  |        16 | ✗       |      10 |           14 |     312 |        15166 | didactique              | Dialogos de los grados de perfecion..                                   |
 
 <!-- EndTable -->
 
@@ -62,22 +62,22 @@ single manuscript, identified by its shelfmark.
 
 ### Total number of pages
 
-150
+172
 
 ### Regions
 
-- MainZone (274)
-- NumberingZone (140)
-- SealZone (2)
-- MarginTextZone (118)
-- StampZone (12)
-- RunningTitleZone (14)
-- QuireMarksZone (3)
-- DropCapitalZone (130)
+- MainZone (308)
+- NumberingZone (160)
+- SealZone (4)
+- MarginTextZone (120)
+- StampZone (14)
+- RunningTitleZone (28)
+- DropCapitalZone (152)
+- QuireMarksZone (4)
 
 ### Lines
 
-- DefaultLine (7748)
+- DefaultLine (8632)
 - DropCapitalLine (236)
 - HeadingLine (6)
 
