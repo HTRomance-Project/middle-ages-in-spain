@@ -125,8 +125,6 @@ characters:
   - ꝵ
   - ꝙ
   - ᷠ
-  - ᷮ
-  - ͨ
   - Z
   - ł
   - Ꝯ
@@ -171,7 +169,7 @@ transcription-guidelines: >2-
   [Kraken](https://kraken.re))
 url: https://github.com/HTRomance-Project/middle-ages-in-spain
 volume:
-- count: 160878
+- count: 160876
   metric: characters
 - count: 86
   metric: files
