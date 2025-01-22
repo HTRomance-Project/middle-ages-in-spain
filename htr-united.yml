@@ -47,8 +47,8 @@ characters:
   - q
   - g
   - f
-  - b
   - .
+  - b
   - y
   - /
   - h
@@ -61,7 +61,6 @@ characters:
   - C
   - ¶
   - ꝑ
-  - ','
   - ͣ
   - ͥ
   - ̾
@@ -70,22 +69,21 @@ characters:
   - ͦ
   - ':'
   - '-'
-  - ᷤ
   - S
   - ẜ
-  - ́
   - A
   - L
   - P
   - ꝯ
   - Q
+  - ᷤ
   - ͬ
   - I
-  - B
   - ⟦
   - ⟧
-  - O
+  - B
   - N
+  - O
   - ̇
   - T
   - ꝓ
@@ -101,7 +99,6 @@ characters:
   - '3'
   - H
   - Y
-  - ᷎
   - ℥
   - '4'
   - '6'
@@ -113,8 +110,10 @@ characters:
   - '9'
   - ꝰ
   - ħ
+  - (
+  - )
   - ͭ
-  - ꝫ
+  - 
   - ᷑
   - ᷝ
   - ͧ
@@ -126,8 +125,11 @@ characters:
   - ꝙ
   - ᷠ
   - Z
+  - ́
   - ł
   - Ꝯ
+  - ᷒
+  - ͯ
   - 
   - ͪ
   - ͩ
@@ -169,11 +171,11 @@ transcription-guidelines: >2-
   [Kraken](https://kraken.re))
 url: https://github.com/HTRomance-Project/middle-ages-in-spain
 volume:
-- count: 160876
+- count: 160772
   metric: characters
 - count: 86
   metric: files
-- count: 4437
+- count: 4504
   metric: lines
-- count: 395
+- count: 397
   metric: regions
